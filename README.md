@@ -28,35 +28,35 @@ Equipe de Pré-Venda (Equipe de Elaboração Técnica da Plataforma)
 | 124 | Escola SENAI - Suzano - Luis Eulálio de Bueno Vidigal Filho | Amilton Cabral de Melo |
 | 124 | Escola SENAI - Suzano - Luis Eulálio de Bueno Vidigal Filho | Francisco Das Chagas de Oliveira |
 | 125 | Escola SENAI - Diadema - Manuel Garcia Filho | Mayara de Paula |
-|   126 | Escola SENAI - Tatuapé (Manutenção Industrial) - Frederico Jacobsen | Danilo Coelho   |Pereira
-|   128 | Escola SENAI - Guarulhos - Celso Charurisen | JOSE ROBERTO GALVAO GOMES   |
-|   134 | Escola SENAI – Paulo Antonio Skafsen |    Ariel Paixao Dos Santos |
-|   134 | Escola SENAI – Paulo Antonio Skafsen |    Vinicio Oliveira Santos |
-|   134 | Escola SENAI – Paulo Antonio Skafsen |    LUCAS RIBEIRO DE LACERDA    |
-|   134 | Escola SENAI – Paulo Antonio Skafsen |    Lucas Lessa Oliveira    |
-|   136 | Escola SENAI - Barueri - José Ephim Mindlinsen |  Luis Alberto Rocha  |
-|   138 | Escola SENAI - Cotia - Ricardo Lernersen |    Arthur Rosa Alves Andrade   |
-|   164 | Escola SENAI - Mauá - Jairo Candidosen |  Irineu Moura Caldeira   |
-|   302 | Escola SENAI - São José Dos Campos - Santos Dumontsen |   Airton Cesar Zombardi   |
-|   302 | Escola SENAI - São José Dos Campos - Santos Dumontsen |   Flaimon Stefani da Silva    |
-|   302 | Escola SENAI - São José Dos Campos - Santos Dumontsen |   Tiago Tavares de Souza  |
-|   360 | Escola SENAI - Pindamonhangaba - Geraldo Alckminsen | Welington Hopka |
-|   360 | Escola SENAI - Pindamonhangaba - Geraldo Alckminsen | Mauricio Donegatti  |
-|   402 | Escola SENAI - Sorocaba - Gaspar Ricardo Juniorsen |  Alessandro Caetano  |
-|   499 | CT SENAI - Mairinquesen | Vanderlei Pereira de Moraes |
-|   501 | Escola SENAI - Campinas (Roberto Mange) - Roberto Mangesen |  ALEX SANDER ALVES DOS   |SANTOS
-|   502 | Escola SENAI - Jundiaí - Conde Alexandre Sicilianosen |   CARLOS EDUARDO DA SILVA     |MEIRELES RIBEIRO
-|   507 | Escola SENAI - Americana - Profº João Baptista Salles da Silvasen |   Diogo Takamori  |Barbosa
-|   508 | Escola SENAI - Itatiba - Luiz Scavonesen |    Vilson Magno dos Santos Cardoso |
-|   509 | Escola SENAI - Campinas (Zerbini) - Prof. Dr. Euryclides de Jesus Zerbisen |  Douglas     |de Cassio Quinzani Gaspar
-|   509 | Escola SENAI - Campinas (Zerbini) - Prof. Dr. Euryclides de Jesus Zerbisen |  Ana     |Claudia das Neves Silva
-|   513 | Escola SENAI - Jaguariúnasen |    Robson Bacchin de Souza |
-|   603 | Escola SENAI - Araraquara - Henrique Luposen |    Gilberto Aparecido Bernardo Junior  |
-|   701 | Escola SENAI - Bauru - João Martins Coubesen |    JOSE CARLOS BACHINI JUNIOR  |
-|   850 | Escola SENAI - Votuporangasen |   ROBERTO DE SOUZA RIBEIRO MORAES JUNIOR  |
-|   890 | CT SENAI - Mirassolsen |  HELTON CARLOS DE SIQUEIRA   |
-|   927 | Escola SENAI - Marília - Jose Polizottosen |  José Carlos Scaquett    |
-|   927 | Escola SENAI - Marília - Jose Polizottosen |  Erika Arias Barrado |
+| 126 | Escola SENAI - Tatuapé (Manutenção Industrial) - Frederico Jacobsen | Danilo Coelho   |Pereira
+| 128 | Escola SENAI - Guarulhos - Celso Charuri  | JOSE ROBERTO GALVAO GOMES   |
+| 134 | Escola SENAI – Paulo Antonio Skaf |    Ariel Paixao Dos Santos |
+| 134 | Escola SENAI – Paulo Antonio Skaf |    Vinicio Oliveira Santos |
+| 134 | Escola SENAI – Paulo Antonio Skaf |    LUCAS RIBEIRO DE LACERDA    |
+| 134 | Escola SENAI – Paulo Antonio Skaf |    Lucas Lessa Oliveira    |
+| 136 | Escola SENAI - Barueri - José Ephim Mindlin |  Luis Alberto Rocha  |
+| 138 | Escola SENAI - Cotia - Ricardo Lerner |    Arthur Rosa Alves Andrade   |
+| 164 | Escola SENAI - Mauá - Jairo Candido |  Irineu Moura Caldeira   |
+| 302 | Escola SENAI - São José Dos Campos - Santos Dumont |   Airton Cesar Zombardi   |
+| 302 | Escola SENAI - São José Dos Campos - Santos Dumont |   Flaimon Stefani da Silva    |
+| 360 | Escola SENAI - Pindamonhangaba - Geraldo Alckmin | Welington Hopka |
+| 360 | Escola SENAI - Pindamonhangaba - Geraldo Alckmin | Mauricio Donegatti  |
+| 402 | Escola SENAI - Sorocaba - Gaspar Ricardo Junior |  Alessandro Caetano  |
+| 499 | CT SENAI - Mairinque | Vanderlei Pereira de Moraes |
+| 501 | Escola SENAI - Campinas (Roberto Mange) - Roberto Mange |  ALEX SANDER ALVES DOS  SANTOS |
+| 502 | Escola SENAI - Jundiaí - Conde Alexandre Siciliano |   CARLOS EDUARDO DA SILVA     |MEIRELES RIBEIRO
+| 507 | Escola SENAI - Americana - Profº João Baptista Salles da Silva |   Diogo Takamori Barbosa |
+| 508 | Escola SENAI - Itatiba - Luiz Scavone |    Vilson Magno dos Santos Cardoso |
+| 509 | Escola SENAI - Campinas (Zerbini) - Prof. Dr. Euryclides de Jesus Zerbi |  Douglas     |de Cassio Quinzani Gaspar
+| 509 | Escola SENAI - Campinas (Zerbini) - Prof. Dr. Euryclides de Jesus Zerbi |  Ana     |Claudia das Neves Silva
+| 513 | Escola SENAI - Jaguariúna |    Robson Bacchin de Souza |
+| 603 | Escola SENAI - Araraquara - Henrique Lupo |    Gilberto Aparecido Bernardo Junior  |
+| 701 | Escola SENAI - Bauru - João Martins Coube |    JOSE CARLOS BACHINI JUNIOR  |
+| 850 | Escola SENAI - Votuporanga |   ROBERTO DE SOUZA RIBEIRO MORAES JUNIOR  |
+| 890 | CT SENAI - Mirassol |  HELTON CARLOS DE SIQUEIRA   |
+| 927 | Escola SENAI - Marília - Jose Polizotto |  José Carlos Scaquett    |
+| 927 | Escola SENAI - Marília - Jose Polizotto |  Erika Arias Barrado |
+| 302 | Escola SENAI - São José Dos Campos - Santos Dumont |   Tiago Tavares de Souza  |
 
 ---
 
@@ -84,9 +84,20 @@ https://learning.servicenow.com/
 - Navegação na Plataforma
 
 ### Dia 2 - 25/11/2025
-- Modulo 1 - configuração e Acesso
+- Modulo 1 
 Apresentação Disponível em:
 https://senaisp.notion.site/Configura-o-e-acesso-2ab9251860df809e8bacda7883c9c9ee
+
+- Módulo 2
+Apresentação Disponível em:
+https://senaisp.notion.site/Configura-o-e-acesso-2ab9251860df809e8bacda7883c9c9ee
+
+- Módulo 3
+Apresentação Disponível em:
+https://senaisp.notion.site/Gest-o-de-dados-e-formul-rios-2ab9251860df80ed9d6bdc6382c99ed2
+
+### Dia 3 - 26/11/2025
+
 
 
 
@@ -128,5 +139,6 @@ A certificação Certified System Administrator (CSA) é uma credencial reconhec
 ## Módulo 1 - Configuração e Acesso
 Este módulo aborda os conceitos básicos de configuração e acesso na plataforma ServiceNow. Os participantes aprenderão a configurar usuários, grupos e funções, bem como a gerenciar permissões e acesso a diferentes módulos e aplicativos. Além disso, o módulo abordará a personalização de formulários e listas, permitindo que os participantes adaptem a interface da plataforma às suas necessidades específicas.
 
-módulo 1 disponível em:
-Modulo1.md
+[Módulo 1](Modulo1.md)
+
+## Módulo 2 - Gerenciamento de Incidentes
