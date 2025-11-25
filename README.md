@@ -97,13 +97,13 @@ O curso de Administração de Sistemas ServiceNow (CSA) é projetado para fornec
 
 ### O que é ServiceNow?
 
-    ServiceNow é uma plataforma de gerenciamento de serviços em nuvem que ajuda as organizações a automatizar e otimizar seus processos de negócios. Ela oferece uma ampla gama de aplicativos e módulos que cobrem áreas como gerenciamento de serviços de TI, atendimento ao cliente, recursos humanos, segurança e muito mais. A plataforma é altamente personalizável e escalável, permitindo que as organizações adaptem suas soluções às suas necessidades específicas.
+ServiceNow é uma plataforma de gerenciamento de serviços em nuvem que ajuda as organizações a automatizar e otimizar seus processos de negócios. Ela oferece uma ampla gama de aplicativos e módulos que cobrem áreas como gerenciamento de serviços de TI, atendimento ao cliente, recursos humanos, segurança e muito mais. A plataforma é altamente personalizável e escalável, permitindo que as organizações adaptem suas soluções às suas necessidades específicas.
 
-    A Estrutura é baseada em WorkFlows, que são fluxos de trabalho automatizados que ajudam a gerenciar processos de negócios de forma eficiente. A plataforma também oferece uma interface intuitiva e fácil de usar, permitindo que os usuários acessem informações e realizem tarefas rapidamente.
+A Estrutura é baseada em WorkFlows, que são fluxos de trabalho automatizados que ajudam a gerenciar processos de negócios de forma eficiente. A plataforma também oferece uma interface intuitiva e fácil de usar, permitindo que os usuários acessem informações e realizem tarefas rapidamente.
 
-    Plataforma de Desenvolvimento Low-Code/No-Code, que permite que usuários com pouca ou nenhuma experiência em programação criem aplicativos personalizados e automatizem processos de negócios usando ferramentas visuais e interfaces intuitivas.
+Plataforma de Desenvolvimento Low-Code/No-Code, que permite que usuários com pouca ou nenhuma experiência em programação criem aplicativos personalizados e automatizem processos de negócios usando ferramentas visuais e interfaces intuitivas.
  
-    Baseando se em uma única base de dados, o que facilita a integração e a colaboração entre diferentes departamentos e equipes dentro de uma organização.
+Baseando se em uma única base de dados, o que facilita a integração e a colaboração entre diferentes departamentos e equipes dentro de uma organização.
 
 ### A plataforma ServiceNow
 
@@ -125,3 +125,8 @@ Palavras chaves: Automação, Análises, Agentes;
 A certificação Certified System Administrator (CSA) é uma credencial reconhecida globalmente que valida as habilidades e conhecimentos dos profissionais na administração da plataforma ServiceNow. A certificação CSA é projetada para profissionais que desejam demonstrar sua competência na configuração, gerenciamento e manutenção da plataforma ServiceNow.
 
 
+## Módulo 1 - Configuração e Acesso
+Este módulo aborda os conceitos básicos de configuração e acesso na plataforma ServiceNow. Os participantes aprenderão a configurar usuários, grupos e funções, bem como a gerenciar permissões e acesso a diferentes módulos e aplicativos. Além disso, o módulo abordará a personalização de formulários e listas, permitindo que os participantes adaptem a interface da plataforma às suas necessidades específicas.
+
+módulo 1 disponível em:
+Modulo1.md
