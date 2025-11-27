@@ -98,8 +98,9 @@ https://senaisp.notion.site/Gest-o-de-dados-e-formul-rios-2ab9251860df80ed9d6bdc
 
 ### Dia 3 - 26/11/2025
 
-
-
+- Módulo 4:
+Apresentação Disponível em:
+https://senaisp.notion.site/Importa-o-e-gerenciamento-de-dados-2ab9251860df805a9698c84022b96c9d
 
 
 ## O Curso
@@ -142,3 +143,14 @@ Este módulo aborda os conceitos básicos de configuração e acesso na platafor
 [Módulo 1](Modulo1.md)
 
 ## Módulo 2 - Gerenciamento de Incidentes
+Este módulo foca no gerenciamento de incidentes na plataforma ServiceNow. Os participantes aprenderão a criar, gerenciar e resolver incidentes usando as melhores práticas do ITIL (Information Technology Infrastructure Library). O módulo também abordará a automação de processos de gerenciamento de incidentes, incluindo a criação de fluxos de trabalho personalizados e a integração com outros módulos da plataforma.
+[Módulo 2](Modulo2.md)
+
+
+## Módulo 3 - Gestão de Dados e Formulários
+Este módulo explora a gestão de dados e formulários na plataforma ServiceNow. Os participantes aprenderão a criar e personalizar formulários, listas e relatórios, bem como a gerenciar dados usando tabelas e relacionamentos. O módulo também abordará a criação de regras de negócios e scripts para automatizar processos de negócios e melhorar a eficiência operacional.
+[Módulo 3](Modulo3.md)
+
+## Módulo 4 - Importação e gerenciamento de dados
+Este módulo aborda a importação e o gerenciamento de dados na plataforma ServiceNow. Os participantes aprenderão a importar dados de várias fontes, incluindo arquivos CSV, bancos de dados externos e APIs. O módulo também cobrirá técnicas de limpeza e transformação de dados, bem como a criação de integrações personalizadas para sincronizar dados entre a plataforma ServiceNow e outros sistemas.
+[Módulo 4](Modulo4.md)

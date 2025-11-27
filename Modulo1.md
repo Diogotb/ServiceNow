@@ -3,7 +3,7 @@
 
 ## Conteúdo do Módulo
 
-![alt text](image01.png)
+![alt text](assets/image01.png)
 
 ## Objetivos de Aprendizagem
 - Localizar e baixar recursos de aula, incluindo conteúdo adicional de prática para autoestudo.
