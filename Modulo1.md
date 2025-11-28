@@ -35,21 +35,32 @@
 
 #### 1.1.1: Baixar recursos de aula
 
-- Acessar a Plataforma de Treinamento: Navegue até o endereço fornecido para os materiais do curso (ex: LMS ou ambiente de treinamento).
+- Acessar o Ebook da Aula: Sera enviado um email com o link para abrir o ebook online, juntamente com o usuario e a senha. acesse o link e faça login.
 
-- Localizar a Seção do Módulo 1: Encontre a pasta ou seção dedicada ao "Módulo 1: ServiceNow".
+- Navege pelo laboratório 1.1.1 e baixe os recursos disponibilizados.
 
-- Identificar os Arquivos: Localize a lista de arquivos de recursos (Guias de laboratório, datasets, etc.) e o conteúdo de prática.
+![alt text](image-4.png)
 
-- Realizar o Download: Clique no link ou ícone de download para salvar todos os recursos necessários em uma pasta local do seu computador.
+- Download dos Materiais: verifique onde foi feito o download dos arquivos no seu computador (geralmente na pasta "Downloads") e mova-os para uma pasta dedicada ao curso para fácil acesso durante as aulas.
 
-- Verificar a Integridade: Abra os arquivos baixados para confirmar que estão acessíveis e não corrompidos.
+- Faça o unzip dos arquivos baixados, para acessar os conteúdos.
+
+- Verifique se todos os arquivos necessários foram baixados corretamente e estão acessíveis.
+
+!![alt text](image-3.png)
+
 
 #### 1.2.1: Conceder e verificar acesso a aplicativos
 
 - Acessar o Painel de Administração: Faça login no seu ambiente de desenvolvimento/treinamento do ServiceNow como administrador.
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 - Navegar para Gerenciamento de Usuários: Use o Navegador de Aplicativos para ir para Usuários e Grupos -> Usuários.
+![alt text](image-2.png)
+
+![alt text](image-5.png)
 
 - Localizar ou Criar um Usuário de Teste: Encontre o perfil de usuário que receberá o acesso ou crie um novo.
 

@@ -28,7 +28,7 @@ Equipe de Pré-Venda (Equipe de Elaboração Técnica da Plataforma)
 | 124 | Escola SENAI - Suzano - Luis Eulálio de Bueno Vidigal Filho | Amilton Cabral de Melo |
 | 124 | Escola SENAI - Suzano - Luis Eulálio de Bueno Vidigal Filho | Francisco Das Chagas de Oliveira |
 | 125 | Escola SENAI - Diadema - Manuel Garcia Filho | Mayara de Paula |
-| 126 | Escola SENAI - Tatuapé (Manutenção Industrial) - Frederico Jacobsen | Danilo Coelho   |Pereira
+| 126 | Escola SENAI - Tatuapé (Manutenção Industrial) - Frederico Jacobsen | Danilo Coelho  Pereira
 | 128 | Escola SENAI - Guarulhos - Celso Charuri  | JOSE ROBERTO GALVAO GOMES   |
 | 134 | Escola SENAI – Paulo Antonio Skaf |    Ariel Paixao Dos Santos |
 | 134 | Escola SENAI – Paulo Antonio Skaf |    Vinicio Oliveira Santos |
@@ -44,12 +44,12 @@ Equipe de Pré-Venda (Equipe de Elaboração Técnica da Plataforma)
 | 402 | Escola SENAI - Sorocaba - Gaspar Ricardo Junior |  Alessandro Caetano  |
 | 499 | CT SENAI - Mairinque | Vanderlei Pereira de Moraes |
 | 501 | Escola SENAI - Campinas (Roberto Mange) - Roberto Mange |  ALEX SANDER ALVES DOS  SANTOS |
-| 502 | Escola SENAI - Jundiaí - Conde Alexandre Siciliano |   CARLOS EDUARDO DA SILVA     |MEIRELES RIBEIRO
+| 502 | Escola SENAI - Jundiaí - Conde Alexandre Siciliano |   CARLOS EDUARDO DA SILVA  MEIRELES RIBEIRO
 | 507 | Escola SENAI - Americana - Profº João Baptista Salles da Silva |   Diogo Takamori Barbosa |
 | 508 | Escola SENAI - Itatiba - Luiz Scavone |    Vilson Magno dos Santos Cardoso |
-| 509 | Escola SENAI - Campinas (Zerbini) - Prof. Dr. Euryclides de Jesus Zerbi |  Douglas     |de Cassio Quinzani Gaspar
-| 509 | Escola SENAI - Campinas (Zerbini) - Prof. Dr. Euryclides de Jesus Zerbi |  Ana     |Claudia das Neves Silva
-| 513 | Escola SENAI - Jaguariúna |    Robson Bacchin de Souza |
+| 509 | Escola SENAI - Campinas (Zerbini) - Prof. Dr. Euryclides de Jesus Zerbi |  Douglas    de Cassio Quinzani Gaspar
+| 509 | Escola SENAI - Campinas (Zerbini) - Prof. Dr. Euryclides de Jesus Zerbi |  Ana    Claudia das Neves Silva
+| 513 | Escola SENAI - Jaguariúna |    Luiz Fernando |
 | 603 | Escola SENAI - Araraquara - Henrique Lupo |    Gilberto Aparecido Bernardo Junior  |
 | 701 | Escola SENAI - Bauru - João Martins Coube |    JOSE CARLOS BACHINI JUNIOR  |
 | 850 | Escola SENAI - Votuporanga |   ROBERTO DE SOUZA RIBEIRO MORAES JUNIOR  |

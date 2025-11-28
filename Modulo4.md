@@ -26,35 +26,35 @@
 
 #### Section 1: Create a new table, column and list layout
 
-![alt text](assets/src-md1/image.png)
+![alt text](assets/src-md4/image.png)
 
-![alt text](assets/src-md1/image-1.png)
+![alt text](assets/src-md4/image-1.png)
 
-![alt text](assets/src-md1/image-2.png)
+![alt text](assets/src-md4/image-2.png)
 
-![alt text](assets/src-md1/image-3.png)
+![alt text](assets/src-md4/image-3.png)
 
 - Label: Holographic Handheld HHD
 - Name: u_cmdb_ci_hardware_hhd
 - Extends label: Hardware [cmdb_ci_hardware]
 
-![alt text](assets/src-md1/image-4.png)
+![alt text](assets/src-md4/image-4.png)
 
-![alt text](assets/src-md1/image-5.png)
+![alt text](assets/src-md4/image-5.png)
 
 ##### Create the firmware version field
 
-![alt text](assets/src-md1/image-6.png)
+![alt text](assets/src-md4/image-6.png)
 
 ##### Configure list layout
 
-![alt text](assets/src-md1/image-7.png)
+![alt text](assets/src-md4/image-7.png)
 
-![alt text](assets/src-md1/image-8.png)
+![alt text](assets/src-md4/image-8.png)
 
 #### Section 2: Configure Infinity HHD form
 
-![alt text](assets/src-md1/image-9.png)
+![alt text](assets/src-md4/image-9.png)
 
 
 
